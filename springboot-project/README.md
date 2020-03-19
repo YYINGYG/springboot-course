@@ -1,4 +1,4 @@
-#springboot project
+# springboot project
 
 **Project Introduction**
 
@@ -19,7 +19,7 @@ Users of the project are for teachers and students.
 * Axios 0.19.2
 
 
-**Deployment nvironment**
+**Deployment Environment**
 
 * Project construction and dependency management based on Maven
 * The persistence layer technology of encapsulating JPA 
